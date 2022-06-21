@@ -1,4 +1,4 @@
-# Respirometry_MUX
+# Analyzing Respirometry with Multiplexer (MUX)
 ## Steps for analyzing MUX data:
 1. Save individual .exp files from ExpeData software to your local computer
 2. Convert .exp files to .xlsx files manually. Sadly this must be done by hand using the expedata software
