@@ -6,5 +6,5 @@
     - Here is how this works:
          1) Start with three ['Group' CSV files](https://colostate.sharepoint.com/:f:/s/Naug-Lab/Eh85-u6ZhrNKuVfMDuVg7I0B_709_xjHMGcVSdY00JHJlQ?e=c5cIVd)
          2) Run Python code to turn group data into ['Individual' CSV Files](https://colostate.sharepoint.com/:f:/s/Naug-Lab/Enh0bHOebvdBr_CpBy64vNgBaVKoKC9PuPIYOAL4V_R_CQ?e=cJqTZ8).  
-5. To analyze and view respirometry files INDIVIDUALLY use (MR_Raw_MUX_Single_File.Rmd). This allows you to visualize the data and double check that everything looks good. 
+5. To analyze and view respirometry files INDIVIDUALLY use [MR_Raw_MUX_Single_File.Rmd] (https://github.com/NaugLab/Respirometry_MUX/blob/main/MR_Raw_MUX_Single_File.Rmd). This allows you to visualize the data and double check that everything looks good. 
 6. Once you are sure the data looks good, use this r script [MR_Raw_MUX_All_Files.r](https://github.com/NaugLab/Respirometry_MUX/blob/main/MR_Raw_MUX_All_Files.r) to run respirometry analyses on ALL of your individual bee files at once. Note: this should spit out one master CSV
