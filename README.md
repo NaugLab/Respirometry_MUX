@@ -10,3 +10,11 @@
 6. Once you are sure the data looks good, use this r script [MR_Raw_MUX_All_Files.r](https://github.com/NaugLab/Respirometry_MUX/blob/main/MR_Raw_MUX_All_Files.r) to run respirometry analyses on ALL of your individual bee files at once. Note: this should spit out one master CSV
      - Here is how this works:
           1) This r code will take all [Individual CSV files](https://colostate.sharepoint.com/:f:/s/Naug-Lab/Enh0bHOebvdBr_CpBy64vNgBaVKoKC9PuPIYOAL4V_R_CQ?e=cJqTZ8), analyze the date and report one ['Master' CSV file](https://colostate.sharepoint.com/:x:/s/Naug-Lab/EfFEcR0dkaRKkHAxy8GMU7cBBC1zizYvsi0Cz_WgHO7YQg?e=fnDE0q) with date from each bee. 
+
+
+
+
+
+######################################################
+Here is the link to google drive folder with individual bee csv files. You will need to seperate the Rest from the Shake files. Let me know if you want me to do that.
+https://drive.google.com/drive/folders/1DGB_V8t1LpRI21lD5ABtLKJ5qFg8o2M7?usp=share_link
